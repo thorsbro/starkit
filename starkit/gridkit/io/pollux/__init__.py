@@ -1,1 +1,1 @@
-from starkit.gridkit.io.bosz.base import make_grid_info, make_raw_index
+from starkit.gridkit.io.pollux.base import make_grid_info, make_raw_index
